@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Treasure Hunt1</string>
+    <string name="title_clue_page">Clue Page</string>
+    <string name="welcome_message">Welcome to the Treasure Hunt Game</string>
+    <string name="game_rules">
+        Game Rules:\n
+        1. One clue leads to another and eventually the treasure is found.\n
+        2. Click "Hint" to see a clue. Only one clue is presented at a time, and location services (gps) are used to tell if the clue is solved.\n
+        3. When you believe you are at the location of the treasure click "Found It".
+    </string>
+    <string name="start_game_button">Start Game</string>
+    <string name="permissions_required_title">Permissions Required</string>
+    <string name="permissions_required_description">This app requires access to your location to provide the best experience. Please grant the necessary permissions.</string>
+    <string name="grant_permissions_button">Grant Permissions</string>
+    <string name="permissions_granted">All permissions granted! Proceed with location access.</string>
+    <string name="permissions_rationale">Permissions are needed to provide the full app functionality.</string>
+    <string name="permissions_denied">Permissions denied. You can enable them in the app settings.</string>
+    <string name="clue_text">Clue: The rapids run near, we have fun here.</string>
+    <string name="hint_text">Hint: Where boats are brought to life.</string>
+    <string name="show_hint_button_text">Hint</string>
+    <string name="found_it_button_text">Found It!</string>
+    <string name="clue_solved_text">Good Job! The answer was the river dock.</string>
+    <string name="clue_Two_text">Clue: A diner among the chickens.</string>
+    <string name="hint_Two_text">Hint: Cow approved Burgers.</string>
+    <string name="clue_solved_text_two">Good Job! The answer was the Sunflower Drive in.</string>
+    <string name="home_button_text">Home</string>
+    <string name="completion_message">Congratulations! You\'ve completed the treasure hunt!</string>
+    <string name="final_message">I hope you enjoyed this little tour of Fair Oaks.</string>
+    <string name="incorrect_location_title">Incorrect Location</string>
+    <string name="incorrect_location_message">You are not at the correct location. Please try again.</string>
+    <string name="ok_button">OK</string>
+    <string name="quit_button_text">&lt;- Quit</string>
+</resources>
