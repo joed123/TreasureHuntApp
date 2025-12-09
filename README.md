@@ -36,13 +36,13 @@ A location-based mobile treasure hunt game for Sacramento, CA. Explore the city,
 
 ## Getting Started
 
-### 1. Clone the Repository
+1. Clone the Repository
 
-### 2. Set Up Google Maps API
+2. Set Up Google Maps API
 
-### 3. Open in Android Studio
+3. Open in Android Studio
 
-### 4. Run the App
+4. Run the App
 
 ## Permissions Required
 
