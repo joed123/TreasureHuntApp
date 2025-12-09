@@ -60,6 +60,4 @@ The app includes various treasure locations throughout Sacramento, CA, including
 
 *Note: Actual treasure locations are defined within the app code. Modify coordinates in the source code to add or change treasure locations.*
 
----
 
-**Ready to start your adventure? Clone the repo and begin your treasure hunt in Sacramento!** 🎉
